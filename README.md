@@ -81,51 +81,9 @@ POST /api/compile
 
 ---
 
-## **📝 File Structure**
-```
-/app
- ├── /api
- │    ├── /compile/route.ts  # API Route for executing code
- ├── /components
- │    ├── CodeEditor.tsx      # Monaco-based code editor
- │    ├── Sidebar.tsx         # Language selection sidebar
- │    ├── Header.tsx          # Navbar with execute button
- ├── /context
- │    ├── CodeContext.tsx     # Manages code execution state
- ├── /lib
- │    ├── constants.ts        # Stores default "Hello World" templates
- ├── /public                  # Language icons
- │    ├── c.svg               
- │    ├── cpp.svg
- ├── package.json
- ├── README.md
-```
-
----
-
-## **🙌 Contributing**
-Contributions are welcome! To contribute:  
-1. **Fork** this repo.  
-2. Create a **feature branch** (`git checkout -b feature-name`).  
-3. **Commit** your changes (`git commit -m "Add feature"`).  
-4. **Push** the branch (`git push origin feature-name`).  
-5. Open a **Pull Request**! 🎉  
-
----
-
-## **📜 License**
-This project is **open-source** and available under the **MIT License**.
-
 ## **🖥 Live Link**
-Link: https://codevcompile.vercel.app
+Checkout the website [link](https://codevcompile.vercel.app)
 
 ---
-
-## **❤️ Sponsor**
-
-If you find this project useful, consider [sponsor me](https://github.com/sponsors/DevFreAkeD) to support development.
-
----
-
-🚀 **Built with ❤️ by [DevFreAkeD](https://github.com/DevFreAkeD)**  
-🔗 **Need help?** Feel free to open an [issue](https://github.com/DevFreAkeD/CoDevCompile-2.0/issues)!  
+## Demo(Screenshot)
+[image](public/demo.png)
