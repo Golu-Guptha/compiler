@@ -86,4 +86,4 @@ Checkout the website [link](https://codevcompile.vercel.app)
 
 ---
 ## Demo(Screenshot)
-[image](public/demo.png)
+![image](public/demo.png)
